@@ -1,13 +1,11 @@
-# _Hi, I'm Risini Dinara Kumarasinghe._
+# Hi, I'm Risini Dinara Kumarasinghe
 
-_I'm currently pursuing a major in Electronic Engineering, specializing in Biomedical Engineering at the University of Moratuwa. I have a deep passion for mathematics and problem-solving, and I thrive in design, particularly in 3D modeling. I always strive to deliver the best in everything I do._
+I am an undergraduate majoring in Electronic Engineering, specializing in Biomedical Engineering at the University of Moratuwa. I am deeply passionate about **biosignal processing**, particularly the acquisition, analysis, and interpretation of physiological signals such as EEG for real-world neuroengineering applications. My interests lie at the intersection of biomedical signal processing, embedded systems, and human-centered interface design, with a strong focus on mathematically grounded and clinically relevant solutions.
 
-_One of my most significant achievements was securing 2nd place in the GCE O/L exam island-wide, competing against over 300,000 students. I also ranked 73rd in the island in the Physical Sciences stream, becoming the top-performing student in my school with the highest scores in Combined Mathematics and Physics._
+Academically, I secured 2nd place island-wide in the GCE O/L examination among over 300000 candidates and ranked 73rd island-wide in the Physical Sciences stream at the GCE A/L examination. I was the top-performing student in my school, achieving the highest results in Combined Mathematics and Physics.
 
-_In my recent work, I've taken on the role of the lead designer in several projects, including "MeasureUP," "VeinFinder," and "Zero Gravity Lifting." My research interests lie in the application of mathematics in engineering._
+My research experience spans both **neural stimulation systems** and **neurophysiological signal analysis**. At the AID Lab, University of Sydney from December 2024 to July 2025, I conducted research on electrotactile stimulation, focusing on waveform generation and real-time multi-electrode control for sensory rehabilitation interfaces. I engineered monophasic, biphasic, sine, and chirp stimulation patterns using precise PWM timing, gaining hands-on experience in real-time control systems and closed-loop haptic interfaces. In parallel, I worked on mycelium-based conductive composites for biosensor and implant-interface applications, performing impedance and capacitance measurements to characterize bioelectrical properties relevant to tissue interfaces. I also explored ear-EEG signal acquisition, including sensor placement, signal conditioning, artifact considerations, and non-invasive safety constraints.
 
-_In my free time, I love feeding and cuddling pets. It’s a simple joy that gives me a break from my studies_
-<!---
-risinidhinara/risinidhinara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I am working on a final-year research project developing an **OpenBCI-enabled Brain-Computer Interface (BCI) for pediatric neurorehabilitation**. This project focuses on non-invasive EEG-based biosignal processing pipelines, including signal acquisition, preprocessing, artifact mitigation, feature extraction, and paradigm evaluation such as Steady-State Visually Evoked Potentials (SSVEP). The goal is to translate brain signals into reliable digital control commands for interactive, game-based environments designed for children with severe motor impairments. The system is being developed as a scalable framework with potential extensions to stroke rehabilitation, spinal cord injury, and neurodegenerative conditions, while also supporting academic research and clinical collaboration.
+
+Outside of academics, I enjoy spending time caring for animals, which helps me relax and stay balanced.
